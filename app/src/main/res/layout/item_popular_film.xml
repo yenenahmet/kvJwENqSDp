@@ -43,11 +43,11 @@
 
                     <androidx.cardview.widget.CardView
                         android:id="@+id/cvAverage"
-                        android:layout_width="33dp"
-                        android:layout_height="33dp"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
                         android:layout_alignParentEnd="true"
                         app:cardBackgroundColor="@color/purple_200"
-                        app:cardCornerRadius="20dp"
+                        app:cardCornerRadius="15dp"
                         app:cardElevation="3dp">
 
                         <androidx.appcompat.widget.AppCompatTextView
